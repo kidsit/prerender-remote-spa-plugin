@@ -1,0 +1,20 @@
+{
+  "name": "prerender-remote-spa-plugin",
+  "version": "1.0.0",
+  "description": "Prerenders static HTML by surfing a remote spa page.",
+  "main": "index.js",
+  "author": "kidsitcn",
+  "license": "MIT",
+  "dependencies": {
+    "core-js": "^2.4.1",
+    "hapi": "13.2.2",
+    "inert": "3.2.0",
+    "lodash": "^4.13.1",
+    "mkdirp": "0.5.1",
+    "phantomjs-prebuilt": "2.1.8",
+    "portfinder": "1.0.3"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
